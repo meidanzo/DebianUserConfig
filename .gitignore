@@ -1,0 +1,12 @@
+*.run
+*.deb
+*.AppImage
+*.tar.gz
+*.zip
+*.tgz
+*.7z
+*.mp4
+*.o
+*.orig
+*.rej
+core*
