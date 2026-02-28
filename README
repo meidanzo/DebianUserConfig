@@ -1,0 +1,11 @@
+总共有两份格式的文档, 它们的内容一样, 但一份是 org-mode 的, 一份是 markdown 的, 你可以按照你的需要选取.
+
+Disclaimer
+
+This repository is a personal collection of configuration files and documentation related to Debian systems. It is not affiliated with, endorsed by, or supported by the Debian Project.
+
+All content is provided “as is”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.
+
+Use these configurations at your own risk. The author assumes no responsibility for any damage, data loss, system instability, or other issues that may result from their use.
+
+Debian is a trademark of Software in the Public Interest, Inc. 
